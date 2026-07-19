@@ -1,0 +1,6 @@
+{
+  "name": "Safety Area Inspection",
+  "description": "ระบบตรวจเช็คพื้นที่ความปลอดภัย บันทึกและดึงข้อมูลจาก Google Sheets พร้อมแดชบอร์ดสรุปผลความปลอดภัยแยกตามแผนก ปี และเดือน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
